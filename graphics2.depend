@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1513859790 source:c:\users\dimitris\documents\courses\vap\examples\graphics2\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1516130983 source:c:\users\chris kolonas\desktop\ergasiavap\graphics2\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1516145808 source:c:\users\chris kolonas\desktop\balls\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
